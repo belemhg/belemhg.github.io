@@ -1,2 +1,3 @@
 # belemhg.github.io
-Primer proyecto del curso de full stack
+PROYECTO 1: Landing de Negocio curso de full stack
+Herramientas: Bootstrap  para desarollo de aplicaciones web, html y css. 
